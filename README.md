@@ -1,8 +1,8 @@
-# Aleth – Ethereum C++ client, tools and libraries
+# Aleth – EthXpert C++ client, tools and libraries
 
-> The collection of C++ libraries and tools for Ethereum, 
-> formerly known as _cpp-ethereum_ project.
-> This includes the full Ethereum client **aleth**.
+> The collection of C++ libraries and tools for Ethxpert, 
+> formerly known as _cpp-ethxpert_ project.
+> This includes the full EthXpert client **aleth**.
 
 
 ## Contact
@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-The Ethereum Documentation site hosts the **[cpp-ethereum homepage](http://cpp-ethereum.org)**, which
+The Ethereum Documentation site hosts the **[cpp-ethxpert homepage], which
 has a Quick Start section.
 
 
