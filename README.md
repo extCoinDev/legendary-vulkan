@@ -7,8 +7,8 @@
 
 ## Contact
 
-[![Gitter](https://img.shields.io/gitter/room/ethereum/cpp-ethereum.svg)](https://gitter.im/ethereum/cpp-ethereum)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/ethereum/cpp-ethereum.svg)](https://github.com/ethereum/cpp-ethereum/issues)
+[![Gitter](https://img.shields.io/gitter/room/Ethxpert/cpp-ethereum.svg)](https://gitter.im/ethereum/cpp-ethereum)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/Ethxpert/cpp-ethereum.svg)](https://github.com/ethereum/cpp-ethereum/issues)
 
 - Chat in [cpp-ethxpert channel on Gitter].
 - Report bugs, issues or feature requests using [GitHub issues](issues/new).
@@ -16,14 +16,14 @@
 
 ## Getting Started
 
-The Ethereum Documentation site hosts the **[cpp-ethxpert homepage], which
+The Ethxpert Documentation site hosts the **[cpp-ethxpert homepage], which
 has a Quick Start section.
 
 
 Operating system | Status
 ---------------- | ----------
-Ubuntu and macOS | [![TravisCI](https://img.shields.io/travis/ethereum/cpp-ethereum/develop.svg)](https://travis-ci.org/ethereum/cpp-ethereum)
-Windows          | [![AppVeyor](https://img.shields.io/appveyor/ci/ethereum/cpp-ethereum/develop.svg)](https://ci.appveyor.com/project/ethereum/cpp-ethereum)
+Ubuntu and macOS | [![TravisCI](https://img.shields.io/travis/Ethxpert/cpp-ethereum/develop.svg)](https://travis-ci.org/Ethxpert/cpp-ethereum)
+Windows          | [![AppVeyor](https://img.shields.io/appveyor/ci/ethereum/cpp-ethereum/develop.svg)](https://ci.appveyor.com/project/Ethxpert/cpp-ethereum)
 
 
 ## Building from source
@@ -33,8 +33,8 @@ Windows          | [![AppVeyor](https://img.shields.io/appveyor/ci/ethereum/cpp-
 Git and GitHub are used to maintain the source code. Clone the repository by:
 
 ```shell
-git clone --recursive https://github.com/ethereum/cpp-ethereum.git
-cd cpp-ethereum
+git clone --recursive https://github.com/Ethxpert/cpp-Ethxpert.git
+cd cpp-Ethxpert
 ```
 
 The `--recursive` option is important. It orders git to clone additional 
@@ -117,19 +117,19 @@ cmake .. -G "Visual Studio 14 2015 Win64"
 
 ## Contribute
 
-[![Contributors](https://img.shields.io/github/contributors/ethereum/cpp-ethereum.svg)](https://github.com/ethereum/cpp-ethereum/graphs/contributors)
-[![Gitter](https://img.shields.io/gitter/room/ethereum/cpp-ethereum.svg)](https://gitter.im/ethereum/cpp-ethereum)
-[![up-for-grabs](https://img.shields.io/github/issues-raw/ethereum/cpp-ethereum/help%20wanted.svg)](https://github.com/ethereum/cpp-ethereum/labels/help%20wanted)
+[![Contributors](https://img.shields.io/github/contributors/Ethxpert/cpp-Ethxpert.svg)](https://github.com/Ethxpert/cpp-Ethxpert/graphs/contributors)
+[![Gitter](https://img.shields.io/gitter/room/Ethxpert/cpp-Ethxpert.svg)](https://gitter.im/Ethxpert/cpp-Ethxpert)
+[![up-for-grabs](https://img.shields.io/github/issues-raw/Ethxpert/cpp-Ethxpert/help%20wanted.svg)](https://github.com/Ethxpert/cpp-Ethxpert/labels/help%20wanted)
 
 The current codebase is the work of many, many hands, with over 100
-[individual contributors](https://github.com/ethereum/cpp-ethereum/graphs/contributors) over the course of its development.
+[individual contributors](https://github.com/Ethxpert/cpp-Ethxpert/graphs/contributors) over the course of its development.
 
 Our day-to-day development chat happens on the
-[cpp-ethereum](https://gitter.im/ethereum/cpp-ethereum) Gitter channel.
+[cpp-Ethxpert](https://gitter.im/Ethxpert/cpp-Ethxpert) Gitter channel.
 
 All contributions are welcome! We try to keep a list of tasks that are suitable
 for newcomers under the tag 
-[help wanted](https://github.com/ethereum/cpp-ethereum/labels/help%20wanted).
+[help wanted](https://github.com/Ethxpert/cpp-Ethxpert/labels/help%20wanted).
 If you have any questions, please just ask.
 
 Please read [CONTRIBUTING](CONTRIBUTING.md) and [CODING_STYLE](CODING_STYLE.md) 
@@ -141,21 +141,21 @@ All development goes in develop branch.
 ## Mining
 
 This project is **not suitable for Ethereum mining** because the support for GPU mining 
-has been dropped some time ago including the ethminer tool. Use the ethminer tool from https://github.com/ethereum-mining/ethminer.
+has been dropped some time ago including the ethminer tool. Use the ethminer tool from https://github.com/Ethxpert-mining/ethminer.
 
 ## Testing
 
 To run the tests, make sure you clone https://github.com/ethxpert/tests and point the environment variable
-`ETHEREUM_TEST_PATH` to that path.
+`Ethxpert_TEST_PATH` to that path.
 
 ## Documentation
 
 - [Internal documentation for developers](doc/index.rst).
-- [Outdated documentation for end users](http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/).
+- [Outdated documentation for end users](http://www.ethdocs.org/en/latest/Ethxpert-clients/cpp-Ethxpert/).
 
 
 ## License
 
-[![License](https://img.shields.io/github/license/ethereum/cpp-ethereum.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/Ethxpert/cpp-ethereum.svg)](LICENSE)
 
 All contributions are made under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). See [LICENSE](LICENSE).
