@@ -10,7 +10,7 @@
 [![Gitter](https://img.shields.io/gitter/room/ethereum/cpp-ethereum.svg)](https://gitter.im/ethereum/cpp-ethereum)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/ethereum/cpp-ethereum.svg)](https://github.com/ethereum/cpp-ethereum/issues)
 
-- Chat in [cpp-ethereum channel on Gitter](https://gitter.im/ethereum/cpp-ethereum).
+- Chat in [cpp-ethxpert channel on Gitter].
 - Report bugs, issues or feature requests using [GitHub issues](issues/new).
 
 
